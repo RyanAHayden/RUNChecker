@@ -19,7 +19,9 @@ The purpose of this application is to retrieve the expiration dates of SSL certi
 <li>
 Hosts to be checked are defined<br>in [RUN].[RunChecker].[Certificates]
 
-![image.png](/.attachments/image-97aafc4e-d20e-4d81-83f5-4a630d4772ef.png)
+![image.png]![image-97aafc4e-d20e-4d81-83f5-4a630d4772ef](https://github.com/user-attachments/assets/9e475f7c-1525-45e5-a404-138d74631357)
+
+
 </li>
 
 <li>
