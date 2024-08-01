@@ -1,7 +1,8 @@
 # RUNChecker
 Ryan Hayden
 
-[QA Zoom](https://teamhealth.zoom.us/rec/share/qk5ZLwcR9NXYr_is8T9tZrmY35txux2WVSZlnKi-sgPUFJD_OwAdXh3VwmLVU1gP.JHx2NefnxLasIua8)
+
+[QA Zoom Application Overview](https://teamhealth.zoom.us/rec/share/qk5ZLwcR9NXYr_is8T9tZrmY35txux2WVSZlnKi-sgPUFJD_OwAdXh3VwmLVU1gP.JHx2NefnxLasIua8)
 
 ## Requirements:
 
@@ -9,7 +10,7 @@ Ryan Hayden
 ### Deployed To:
     N/A
 
-**-**
+---
 
 # Certificate Module
 
@@ -80,7 +81,7 @@ After running, the application also updates the database of certificates with th
 ![image-db3ea4aa-4061-4407-a9ea-67e9c905d459](https://github.com/user-attachments/assets/341b61e1-eb03-4a8c-b049-d004263456bf)
 
 
-**-**
+---
 
 # Service Account Module
 
@@ -101,7 +102,7 @@ It acts about the same as the Certificate Checker. Sending information to a back
 
 ![image-d4d86d6d-5afd-4a17-ab6b-6fb810a8cabc](https://github.com/user-attachments/assets/4334b370-503e-4e0b-ae55-0621c17e8d0e)
 
-**-**
+---
 
 # Database:
 
