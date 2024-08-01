@@ -1,0 +1,23 @@
+USE [RUN]
+GO
+
+/****** Object:  Table [RunChecker].[Areas]    Script Date: 7/29/2024 1:23:43 PM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [RunChecker].[Areas](
+	[AreaId] [int] IDENTITY(1,1) NOT NULL,
+	[ProjectName] [varchar](50) NOT NULL,
+	[AreaName] [varchar](50) NULL,
+	[IterationPath] [varchar](50) NULL,
+	[BacklogTeam] [varchar](50) NOT NULL
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [RunChecker].[Areas] ADD  DEFAULT ('RUN Team Test') FOR [BacklogTeam]
+GO
+
+
