@@ -37,7 +37,8 @@ Each certificate in the database is labeled with an App Environment<br>in [RUN].
 <li>
 and an Application<br>in [RUN].[RunChecker].[Applications]
 
-![image.png](/.attachments/image-cd70cd86-1795-4281-abc9-06a0300bf677.png)
+![image-cd70cd86-1795-4281-abc9-06a0300bf677](https://github.com/user-attachments/assets/b1868d6c-1994-4853-a832-cdca43000f8f)
+
 </li>
 <li>
 Each Application is labeled with an Area for the backlog item to be created in.<br>in [RUN].[RunChecker].[Areas]
