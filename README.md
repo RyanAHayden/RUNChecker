@@ -1,9 +1,6 @@
 # RUNChecker
 Ryan Hayden
 
-
-[QA Zoom Application Overview](https://teamhealth.zoom.us/rec/share/qk5ZLwcR9NXYr_is8T9tZrmY35txux2WVSZlnKi-sgPUFJD_OwAdXh3VwmLVU1gP.JHx2NefnxLasIua8)
-
 ## Requirements:
 
 [.NET 8.0.2](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-8.0.2-windows-x64-installer)
