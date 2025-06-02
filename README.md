@@ -63,9 +63,6 @@ How far away from expiration to create a backlog & email
 </li>
 <li>
 Who to send the email to
-
-![image-c0adf640-1da6-40e9-8957-6be58e51e9c3](https://github.com/user-attachments/assets/657b74d1-3153-4267-a21f-f5070665b142)
-
 </li>
 
 <li>
